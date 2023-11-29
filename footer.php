@@ -16,9 +16,7 @@
 </head>
 <body>
   <div id="footer" >
-  <b><center>COPYRIGHT © 2020<br>
-  Blood Bank & Donation Management
-  <br>
+  <b><center>HemoHUB Desk
   ALL RIGHTS RESERVED.
   </center>
   </div>
