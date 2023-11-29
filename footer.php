@@ -17,7 +17,7 @@
 <body>
   <div id="footer" >
   <b><center>
-  Blood Bank & Donation Management
+  THANKS for visiting HemoHUB
   <br>
   ALL RIGHTS RESERVED.
   </center>
