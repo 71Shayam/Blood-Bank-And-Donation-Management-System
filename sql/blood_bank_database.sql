@@ -24,7 +24,7 @@ Primary key(admin_id)
 
 /*  insert admin data into admin_info table*/
 insert into admin_info(admin_name,admin_username,admin_password)
-values("Varun","varunsardana004",123);
+values("Shayam","71Shayam",12345);
 
 /*create table blood in which all blood group is stored.*/
 create table blood(
@@ -58,7 +58,8 @@ primary key(contact_id)
 );
 
 insert into contact_info(contact_address,contact_mail,contact_phone)
-values("Hisar,Haryana(125001)","bloodbank@gmail.com","7056550477");
+values("Delhi-NCR, Ghaziabad-Meerut Road
+Ghaziabad-201206","bloodbank@gmail.com","1800-1200-106");
 
 
 
