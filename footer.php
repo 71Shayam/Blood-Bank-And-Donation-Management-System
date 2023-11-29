@@ -17,11 +17,8 @@
 <body>
   <div id="footer" >
   <b><center>HemoHUB Desk
-  ALL RIGHTS RESERVED.
   </center>
   </div>
-
-
 </body>
 
 </html>
