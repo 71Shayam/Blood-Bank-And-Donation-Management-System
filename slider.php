@@ -16,7 +16,7 @@
 
       <div class="carousel-inner">
         <div class="item active">
-            <img src="image\_107317099_blooddonor976.jpg" alt="Los Angeles" style="width:100%; height:550px;margin-top:0px;">
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fdonate-blood-gifs&psig=AOvVaw1VP2QaysO9sz24k9STvnwb&ust=1701369808347000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOC8ycru6YIDFQAAAAAdAAAAABA-" alt="Los Angeles" style="width:100%; height:550px;margin-top:0px;">
         </div>
 
         <div class="item">
