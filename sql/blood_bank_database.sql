@@ -58,7 +58,8 @@ primary key(contact_id)
 );
 
 insert into contact_info(contact_address,contact_mail,contact_phone)
-values("Hisar,Haryana(125001)","bloodbank@gmail.com","7056550477");
+values("Delhi-NCR, Ghaziabad-Meerut Road
+Ghaziabad-201206","Kietbloodbank@gmail.com","1800-1200-106");
 
 
 
