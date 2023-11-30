@@ -17,7 +17,7 @@
       <div class="row justify-content-center">
           <div class="col-lg-6">
               <h1 class="mt-4 mb-3" style="color:#D2F015 ;">
-                  HemoHUB
+                  Blood Bank & Management
                   <br>Admin Login Portal
                 </h1>
 
