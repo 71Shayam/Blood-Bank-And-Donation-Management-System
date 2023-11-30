@@ -73,7 +73,7 @@ a.logo2{
 
 <body>
   <div class="header">
-    <img src="image/logo3.png" alt="logo">
+    <img src="image/logo3.png" alt="logo" width="20 px" height="18 px">
     <a href="home.php" class="logo"<?php if($active=='home') echo "class='logo2'"; ?>>Hemo HUB </a>
     <div class="header-right">
     <a href="about_us.php"  <?php if($active=='about') echo "class='act'"; ?> >About Us</a>
