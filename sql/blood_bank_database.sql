@@ -59,7 +59,7 @@ primary key(contact_id)
 
 insert into contact_info(contact_address,contact_mail,contact_phone)
 values("Delhi-NCR, Ghaziabad-Meerut Road
-Ghaziabad-201206","bloodbank@gmail.com","1800-1200-106");
+Ghaziabad-201206","KietBloodBank@gmail.com","1800-1200-106");
 
 
 
