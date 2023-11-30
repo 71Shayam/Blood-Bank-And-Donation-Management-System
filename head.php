@@ -68,12 +68,15 @@ border-radius:30px;
 a.logo2{
   background-color: #333;
 }
+.backblack{
+  background-color:rgb(0,0,0) ;
+}
 </style>
 </head>
 
 <body>
   <div class="header">
-    <a href="home.php" class="logo"<?php if($active=='home') echo "class='logo2'"; ?>> <img src="image/logo3.png" alt="logo" width="40" height="35" background-color="black">   HemoHub </a>
+    <a href="home.php" class="logo"<?php if($active=='home') echo "class='logo2'"; ?>> <img class="backblack"src="image/logo3.png" alt="logo" width="43 px" height="38 px">   HemoHub </a>
     <div class="header-right">
     <a href="about_us.php"  <?php if($active=='about') echo "class='act'"; ?> >About Us</a>
     <a href="why_donate_blood.php"  <?php if($active=='why') echo "class='act'"; ?>>Why Donate Blood</a>
